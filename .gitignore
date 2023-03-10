@@ -1,2 +1,13 @@
+# files to be ignored
+
+--- IDE files ---
 .idea
+
+
+--- Venv or Env ---
+.venv
+/venv/
+
+
+---  DB files ---
 db.sqlite3
